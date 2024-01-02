@@ -26,3 +26,7 @@ A limitation to my current model is that its training data is very limited. Whil
 
 If I were to continue this project, I would try to expand the dataset to include headlines from other news outlets. I would also either build on this existing model or create a separate model that can identify sarcasm as a response to other text. This would be especially suitable for identifying sarcastic responses or re-tweets, for example. I could also try to train my model using different existing NLP architectures instead of BERT and see if performance improves.
 A more ambitious idea would be to train a new model that can distinguish between sarcastic and non-sarcastic audio. This would involve collecting snippets of audio data and using a NLP architecture designed to parse audio instead of textual data. A tool like this could be integrated with existing voice services (Siri, Alexa) to enhance their communication with users. 
+
+##### Citations:
+1. Misra, Rishabh and Prahal Arora. "Sarcasm Detection using News Headlines Dataset." AI Open (2023).
+2. Misra, Rishabh and Jigyasa Grover. "Sculpting Data for ML: The first act of Machine Learning." ISBN 9798585463570 (2021).
